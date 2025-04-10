@@ -7,7 +7,7 @@ This project contains SQL queries written as part of *Task 3* in the *Data Analy
 Use SQL queries to extract and analyze data from an Ecommerce database using *MySQL*.
 
 ## Dataset:
-- Custom sample Ecommerce SQL database:sample_ecommerce.sql ( included in this repo ) 
+- Custom sample Ecommerce SQL database : sample_ecommerce.sql ( included in this repo ) 
 
 ## Tools Used
 
